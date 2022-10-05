@@ -1,0 +1,53 @@
+.wrapper-hotels {
+    margin: 20px;
+    display: flex;
+    margin-left:150px;
+    margin-right:150px;
+    justify-content: space-between;
+    max-height: 100%;
+
+
+}
+
+.image-container {
+
+    margin:30px 5px 5px 30px;
+   /* margin-left: 25px;
+   margin-right: 25px; */
+   
+}
+.img {
+    width: 360px;
+    height: 359px;
+   
+}
+.span {
+    text-align: center;
+   
+
+}
+h1 { font-family:Arial;
+    font-size: 30px;
+    font-weight: 600;
+    font:bold
+    
+}
+h3 {
+    font-size: 20px;
+}
+
+.text-content{
+    margin-left: 200px;
+    font: bold;
+    font-weight: 800;
+    
+}
+.container_box{
+   
+    display: flex;
+}
+.box{ 
+    width: 34px;
+    color: rgb(216, 216, 225);
+    background-color: rgb(6, 5, 81);
+}

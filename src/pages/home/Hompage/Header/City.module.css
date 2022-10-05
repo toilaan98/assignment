@@ -1,0 +1,35 @@
+.wapper {
+    margin: 20px;
+    display: flex;
+    margin-left:150px;
+    margin-right:150px;
+    display: flex;
+    justify-content: space-between;
+    
+    width: auto;
+    height: 40rem;/*em cứ chỉnh thử bên ngoài rồi sửa vào đây nhé */
+}
+.image-container {
+
+    margin:30px 15px 15px 30px;
+   margin-left: 25px;
+   margin-right: 25px;
+   
+}
+.img {
+    width: 500px;
+    height: 100%;
+    border-radius: 20px;
+}
+.span {
+    color: aliceblue;
+    margin: 20px;
+    position: relative;
+    top: -90px;
+}
+h1 {
+    font-size: xx-large;
+}
+h3 {
+    font-size: 20px;
+}
